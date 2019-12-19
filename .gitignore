@@ -1,0 +1,8 @@
+.vscode/
+main.ipynb/
+coin_xml/
+coin/
+TFRecords.ipynb/
+images/
+generate_tfrecord/
+test_local/
